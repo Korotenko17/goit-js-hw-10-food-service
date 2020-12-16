@@ -1,5 +1,4 @@
 import './styles.css';
-import './js/htmlMarkup.js';
-import './js/localStorage.js';
-
+import './js/change-themes';
+import './js/templating';
 
